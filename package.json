@@ -1,0 +1,21 @@
+{
+  "name": "namaste-react-2",
+  "version": "1.0.0",
+  "description": "hello to namaste react2",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "braja",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlList": [
+    "last 2 versions"
+  ]
+}
